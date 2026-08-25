@@ -1,5 +1,6 @@
 # Distance-Calculator
 https://www.programiz.com/online-compiler/7UzVnqXJuZSkV
+(improved version) https://www.programiz.com/online-compiler/9QRzKyQHJjieW
 
 ## This program coverts and calculates any given distance in kilometers to miles for 2 times.
 
