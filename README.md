@@ -1,8 +1,7 @@
 # Distance-Calculator
+## This program coverts and calculates any given distance in kilometers to miles for 2 times.
 https://www.programiz.com/online-compiler/7UzVnqXJuZSkV
 (improved version) https://www.programiz.com/online-compiler/9QRzKyQHJjieW
-
-## This program coverts and calculates any given distance in kilometers to miles for 2 times.
 
 ## How to Run
  1. Open the program file in Programiz, VS Code or any other trusted programming software.
