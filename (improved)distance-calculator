@@ -13,3 +13,5 @@ if a=="yes":
     print("Distance in miles:",r)
 else:
     print("Program ended.")
+
+https://www.programiz.com/online-compiler/2O0S8k4jaK6yE
