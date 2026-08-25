@@ -1,16 +1,26 @@
 # Distance-Calculator
-
 https://www.programiz.com/online-compiler/7UzVnqXJuZSkV
 
-x=float(input("Enter distance in kilometers: "))
-y = 0.621371
-z = x*y
-print("Distance in miles:",z)
+## This program coverts and calculates any given distance in kilometers to miles for 2 times.
 
-a = input("Do you want to convert another distance? (yes/no): ")
-if a=="yes":
-    q = float(input("Enter distance in kilometers: "))
-    r = q*y
-    print("Distance in miles:",r)
-else:
-    print("Program ended.")
+## How to Run
+ 1. Open the program file in Programiz, VS Code or any other trusted programming software.
+ 2. Run the program.
+ 3. Enter your value for distance in kilometers.
+ 4. Check the converted distance to miles displayed on screen.
+ 5. Enter yes or no whether you want to convert another distance.
+
+## Input needed
+ - distance in kilometers
+ - convert another distance (yes/no)
+
+## Sample Output
+Enter distance in kilometers: 67
+Distance in miles: 41.631857000000004
+Do you want to convert another distance? (yes/no): yes
+Enter distance in kilometers: 34
+Distance in miles: 21.126614
+
+## Author
+Name: Ezra Celestyn S. De Los Santos
+Section: 8-Rosal
